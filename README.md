@@ -1,6 +1,6 @@
--  I’m @Jlei61 currently a master student @Tsinghua University
+-  I’m @Jlei61 currently a graduate student @Tsinghua University
 -  I’m interested in Computational Neuroscience & Neuroengineering
--  Reach me: leijiaxin61@gmail.com | jlei11@jh.edu
+-  Reach me: leijiaxin61@gmail.com | jlei61@mail.tsinghua.edu.cn
 
 <!---
 Jlei61/Jlei61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
